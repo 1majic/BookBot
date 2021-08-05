@@ -1,6 +1,6 @@
 import yadisk
 
-y = yadisk.YaDisk(token="AQAAAAAWHQCOAAdDDu0EyeMjj0BNrVoaL2fzMsk")
+y = yadisk.YaDisk(token="")
 
 
 def uploadFile(file, path):
