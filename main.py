@@ -9,7 +9,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 from aiogram.types import InputFile, ParseMode
 
-API_TOKEN = "1926215867:AAEZQ6XIiivGGgMJdC6PVZxz9eNzNWUJbdk"
+API_TOKEN = ""
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot, storage=MemoryStorage())
